@@ -1,0 +1,114 @@
+message,label,scam_type
+DHL Express: Parcel from UK held at Mumbai airport. Pay customs duty Rs.599: http://dhl-customs-india.com,1,courier_scam
+Axis Bank Alert: KYC documents expired. Upload new documents: http://axisbank-kyc.co.in or visit branch.,1,kyc_scam
+"Congratulations! You are selected for work from home job. Earn Rs.50,000/month. Register fee Rs.500 only.",1,job_scam
+DTDC Alert: Package detained at customs. Pay duty Rs.199 to release: http://dtdc-customs.in/pay,1,courier_scam
+"YES Bank: Your FD matured. Rs.75,000 ready for transfer. Confirm bank details and OTP to receive.",1,bank_impersonation
+PhonePe: Rs.500 sent to Raj Kumar (9876543210) successfully. UTR: PPEMAR2024001.,0,legit_banking
+"Your PhonePe cashback of Rs.2,500 is ready. Share your UPI PIN to transfer instantly.",1,upi_fraud
+"Groww: SIP of Rs.5,000 in Axis Bluechip Fund processed for March. Total invested: Rs.60,000.",0,legit_finance
+UIDAI Notice: Your Aadhaar linked bank account requires reverification. OTP: 934821. Confirm now.,1,kyc_scam
+Jio Fiber: Your broadband plan renewed for Rs.999/month. Speed: 150Mbps unlimited data active.,0,legit_utility
+"HDFC Bank: Suspicious transaction of Rs.45,000 detected. Call 9900112233 to block immediately.",1,bank_impersonation
+"PolicyBazaar: Your term insurance premium of Rs.8,500 paid successfully. Policy valid till 2044.",0,legit_finance
+"Groww referral bonus: Invest Rs.50,000 and get Rs.25,000 bonus guaranteed. Limited offer today only.",1,investment_scam
+Vi: Your number will be deactivated due to non-usage after 15 days. Make a call or recharge to keep active.,0,legit_service
+Your OTP for SBI net banking login is 739281. Valid for 10 minutes. Do not share with anyone.,0,legit_banking
+"HDFC Bank: Rs.5,000 debited from account XX4521 on 12-Mar. Available balance Rs.23,450. SMS BLOCK to 5676712 if not done by you.",0,legit_banking
+ALERT: Your PhonePe account will be deactivated in 24 hours. Update KYC now: http://phonepe-kyc.net,1,upi_fraud
+You are the lucky winner of iPhone 15 Pro. Pay shipping Rs.299 to receive: http://apple-lucky-india.com,1,lottery_scam
+"CRED: Your credit card payment of Rs.12,500 to HDFC processed. Earned 250 CRED coins.",0,legit_banking
+Amazon: Your order for boAt Airdopes has been delivered. Rate your experience on the app.,0,legit_order
+You are selected for Google remote job. Salary 80k USD. Pay document processing fee $50 via UPI.,1,job_scam
+NPCI Notice: Your UPI account shows suspicious activity. Verify identity: http://npci-secure.net,1,upi_fraud
+"Congratulations! Your mobile number won Rs.25,00,000 in KBC lottery. Call Amitabh helpline: 9900887766",1,lottery_scam
+"Canara Bank: Rs.1,00,000 credited to your account by mistake. Return via UPI or face legal action.",1,bank_impersonation
+MG Motors: Your car service is scheduled for 20-Mar at Whitefield service center. Contact: 1800-XXX-XXXX,0,legit_service
+"Stock market tips: Guaranteed profit 200% in 30 days. Join SEBI certified group. Pay Rs.5,000.",1,investment_scam
+DigiLocker: Your driving license has been successfully linked. Download at digilocker.gov.in,0,legit_govt
+Data entry job available. Earn Rs.800 per hour working from home. Registration: http://jobsindia-wfh.com,1,job_scam
+Your Flipkart order #FK-2024-8821 has been shipped. Expected delivery: 14-Mar. Track: flipkart.com/orders,0,legit_order
+BSNL: Your broadband bill of Rs.599 for March is due. Pay at bsnl.in or nearest CSC.,0,legit_service
+Swiggy: Your order from Dominos is on the way! Delivery in 25 minutes. Track live in the app.,0,legit_order
+Zomato: Your order is confirmed! Estimated delivery 35 mins. Track your order in the Zomato app.,0,legit_order
+"Google India Lottery: Your Gmail ID won $10,000. Send Aadhaar copy to googleindiareward@gmail.com",1,lottery_scam
+"Zerodha: Your order to buy 10 shares of Reliance at Rs.2,450 executed successfully.",0,legit_finance
+India Post: Your parcel could not be delivered. Reschedule by paying Rs.50: http://indiapost-rescheduled.com,1,courier_scam
+Government job alert: 500 vacancies in Railways. Apply fee Rs.450 here: http://railway-bharti-2024.in,1,job_scam
+URGENT: Your SBI account KYC is incomplete. Account will be blocked in 24 hours. Update: http://sbi-kyc.in,1,kyc_scam
+"Jio subscriber reward: You won 1 year free recharge worth Rs.3,600. Claim: http://jio-reward-claim.in",1,lottery_scam
+Apollo Pharmacy: Your medicine order is ready for pickup at MG Road store. Order ID: APL-8821.,0,legit_service
+"BESCOM: Your electricity bill of Rs.2,100 is generated. Due date: 25-Mar. Pay online to avoid disconnection.",0,legit_utility
+"Earn 50% monthly returns on crypto investment. Minimum Rs.10,000. Telegram: http://t.me/cryptoprofit_india",1,investment_scam
+"UPI fraud alert: Rs.15,000 debited from your account. Call 9876543210 immediately to block.",1,upi_fraud
+"IndusInd Bank: Your personal loan approved Rs.5,00,000. Pay processing fee Rs.2,500 to disburse.",1,bank_impersonation
+"PM Jan Dhan Yojana: Government investing Rs.50,000 in your account. Activate by sharing Aadhaar.",1,investment_scam
+"BSNL Anniversary offer: You won Smart TV worth Rs.45,000. Collect from warehouse, pay GST Rs.999.",1,lottery_scam
+PharmEasy: Your medicine subscription delivered. Next delivery on 15-Apr. Manage at pharmeasy.in,0,legit_service
+"Dear ICICI customer, your credit card ending 4521 used for Rs.12,500 abroad. Dispute: 8800990011",1,bank_impersonation
+Your Google Pay transaction of Rs.9999 failed. Refund OTP: 847291. Share to receive refund immediately.,1,upi_fraud
+NSDL: Your PAN card application acknowledged. Acknowledgement No: 881234567. Processing time 15 days.,0,legit_govt
+"Your ICICI Bank credit card bill of Rs.8,750 is due on 25th March. Pay now to avoid late fee.",0,legit_banking
+"Axis Bank: Your FD of Rs.1,00,000 matures on 15-Apr-2024. Auto-renewal instructions: visit branch or net banking.",0,legit_banking
+"Amazon work from home: Pack products at home, earn Rs.25,000/month. Kit charges Rs.1,200 only.",1,job_scam
+BlueDart notification: Shipment held. Provide Aadhaar number for identity verification to release package.,1,courier_scam
+"Earn Rs.15,000 daily by investing Rs.5,000. Guaranteed returns. Join now: http://invest-earn-india.com",1,job_scam
+SBI: Your net banking is blocked. Call customer care 18001234567 immediately to unlock.,1,bank_impersonation
+IndiGo: Your flight 6E-2134 on 20-Mar is on time. Web check-in open. Manage booking at goindigo.in,0,legit_travel
+Your Kotak Bank KYC is overdue. Account transactions limited. Complete here: http://kotak-kyc.net,1,kyc_scam
+BigBasket: Your order of 24 items confirmed. Delivery slot: Tomorrow 8-10 AM. Order ID: BB-2024-9921.,0,legit_order
+"LIC: Premium of Rs.12,000 for policy 456789321 received. Next due: Sep 2024.",0,legit_finance
+"Amazon delivery failed. Your order worth Rs.3,499 returned. Claim refund OTP: 628419 within 1 hour.",1,courier_scam
+"Modi government scheme: Rs.15,000 direct benefit transfer approved for you. Share bank details to receive.",1,lottery_scam
+"Dear user, your UPI PIN has expired. Reset now to avoid account suspension: http://upi-reset.co.in",1,upi_fraud
+Part time job offer: Like YouTube videos and earn Rs.300 per video. Join WhatsApp group: http://wa.me/earn300,1,job_scam
+WhatsApp Gold membership: You are invited. Pay Rs.149 activation fee: http://whatsapp-gold-india.com,1,lottery_scam
+Your Paytm wallet is suspended due to KYC mismatch. Update now or lose balance: http://paytm-kyc-update.in,1,upi_fraud
+"TCS recruitment 2024: Selected candidates must pay Rs.1,500 for background verification. Reply YES to proceed.",1,job_scam
+Axis Bank: Your EMI payment failed 3 times. Account will be reported to CIBIL. Pay now: 7788990011,1,bank_impersonation
+Punjab National Bank alert: Your debit card cloned. Block immediately by sharing card number and CVV.,1,bank_impersonation
+RBI mandate: All bank accounts must complete re-KYC by tomorrow. Link: http://rbi-kyc-india.net,1,kyc_scam
+Bank of India: Dormant account activation required. Share Aadhaar and account number to activate.,1,bank_impersonation
+Nykaa: Your order for skincare products shipped via Delhivery. Track: nykaa.com/track/ORD-9921,0,legit_order
+ICICI Lombard: Your car insurance renewed successfully. Policy valid till Mar 2025. Download at website.,0,legit_finance
+Airtel: Your recharge of Rs.299 was successful. Validity: 28 days. Data: 1.5GB/day.,0,legit_service
+"Practo: Appointment confirmed with Dr. Sharma on 16-Mar at 11:00 AM. Apollo Clinic, Bangalore.",0,legit_service
+Final warning: Bank of Baroda account will be permanently closed without KYC update by tonight.,1,kyc_scam
+"Income Tax Dept: Your ITR for AY2023-24 has been processed. Refund of Rs.4,200 initiated to bank account.",0,legit_govt
+Reserve Bank of India: Your account flagged for money laundering. Contact RBI officer: 9711223344,1,bank_impersonation
+"SBI: Your home loan EMI of Rs.22,500 debited successfully for March 2024. Outstanding: Rs.18,45,000.",0,legit_banking
+Your FedEx parcel is on hold due to incomplete address. Pay Rs.25 delivery fee: http://fedex-india.net,1,courier_scam
+"Dear customer, your UPI ID has been blocked. Click here to verify: http://sbi-upi-verify.com/update",1,upi_fraud
+Swiggy Instamart: Your grocery order delivered! 18 items in 22 minutes. Rate your experience.,0,legit_order
+"HDFC: Your credit card limit increased to Rs.3,00,000 based on good repayment history.",0,legit_banking
+"Flipkart Big Billion Day: You are selected winner. Prize Rs.50,000 cash. OTP to claim: 748291",1,lottery_scam
+"Mahanagar Gas: Your CNG bill of Rs.3,200 is ready. Pay at mahanagargas.com or nearest collection center.",0,legit_utility
+"Amazon Great Indian Sale: You won Rs.1,00,000 gift voucher. Claim within 24 hours: http://amazon-reward.net",1,lottery_scam
+"Myntra: Your return for Blue Shirt has been picked up. Refund of Rs.1,299 in 5-7 business days.",0,legit_order
+IRCTC: Your ticket PNR 4521839027 for 15-Mar Rajdhani Express is confirmed. Seat: B2-34.,0,legit_travel
+Your Flipkart package seized at warehouse. Legal action pending unless you call 9988776655 immediately.,1,courier_scam
+"Google Pay: Payment of Rs.1,200 to BigBasket confirmed. Order will be delivered by tomorrow.",0,legit_banking
+Your Aadhaar update request has been submitted successfully. URN: 1234/56789/12345. Track at uidai.gov.in,0,legit_govt
+Jio: Your monthly plan of Rs.239 auto-renewed successfully. 1.5GB daily data active.,0,legit_service
+"Bitcoin trading bot: Auto earn Rs.5,000 daily. One time setup Rs.3,000. Refundable after 7 days.",1,investment_scam
+Ecom Express: Delivery attempt failed 3 times. Package being returned. Pay Rs.99 to redeliver: http://ecom-redeliver.in,1,courier_scam
+Speed Post: Undelivered parcel with gold jewelry. Contact sender helpline: 8877665544 to claim.,1,courier_scam
+Uber: Your ride with Suresh ended. Total Rs.180. Receipt sent to your email. Rate your trip!,0,legit_service
+"Razorpay: Payment of Rs.4,500 received from customer for order #ORD-2024-8821. Amount will settle in 2 days.",0,legit_finance
+"Congratulations! You have received Rs.50,000 via UPI. Enter OTP 736481 to claim within 10 minutes.",1,upi_fraud
+"Your SIM card selected for Rs.10,00,000 prize by TRAI. Pay tax Rs.1,800 to receive cheque.",1,lottery_scam
+Ola: Your ride has been booked. Driver Ramesh (KA-09-AB-1234) is arriving in 3 minutes.,0,legit_service
+"Dear HDFC customer, KYC verification pending. Click to complete: http://hdfc-kyc-verify.com",1,kyc_scam
+"Paytm: Rs.250 paid to Swiggy successfully. Transaction ID: PTM2024031200012. Balance: Rs.1,840.",0,legit_banking
+"Tata Power: Your electricity bill of Rs.1,850 for March is due on 20th. Pay at tatapower.com",0,legit_utility
+"MakeMyTrip: Hotel booking confirmed for Goa, 22-24 Mar. Booking ID: MMT-2024-GH8821.",0,legit_travel
+Your ICICI Bank account is on hold due to incomplete KYC. Update Aadhaar: http://icici-aadhaar.in,1,kyc_scam
+Dunzo: Your delivery from DMart is on the way. Estimated arrival: 15 minutes. Track in app.,0,legit_order
+"Dear customer, NSDL has flagged your PAN for KYC update. Provide PAN and DOB to avoid penalty.",1,kyc_scam
+Courier company: Your package contains illegal items. CBI case filed. Call officer on 9765432100 now.,1,courier_scam
+"Infosys HR: You are shortlisted for software engineer role. Pay Rs.2,000 training fee to confirm joining.",1,job_scam
+"Wipro HR Team: Your resume shortlisted. Interview scheduled. Pay security deposit Rs.3,000 refundable.",1,job_scam
+BookMyShow: 2 tickets for RRR at PVR Cinemas on 18-Mar confirmed. Booking ID: BMS-2024-4421.,0,legit_service
+BHIM UPI ALERT: Unauthorized login detected. Verify your account: http://bhim-secure.in/login,1,upi_fraud
+Action required: Submit PAN card for KYC within 48 hours to avoid account freeze. Reply with PAN details.,1,kyc_scam
+"EPFO: Your PF claim of Rs.45,000 has been approved and will be credited in 3-5 working days.",0,legit_govt
