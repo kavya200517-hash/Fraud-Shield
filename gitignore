@@ -1,0 +1,51 @@
+# Environment
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Model files (large — use Git LFS or HuggingFace Hub)
+*.pt
+*.pkl
+*.npy
+*.bin
+*.safetensors
+
+# Data (raw datasets — do not commit)
+data/raw/
+data/processed/
+
+# Results
+results/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
